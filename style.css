@@ -13,9 +13,12 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.418) ;
-    font: normal 15px Arial;
+    font: italic 20px Arial;
+    text-align: center;
+
 
 }footer {
     text-align: center;
     font-style: italic;
+    
 }
